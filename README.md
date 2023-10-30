@@ -10,6 +10,6 @@ In `baeldung-spring-boot-starter` branch you will find a solution for example av
 
 
 ## Collaborations 🤝
-Feel free to add information, examples, documentation, videos, and much more!
-If you want to add useful links, add them to `documentation.md` file
+Feel free to add information, examples, documentation, videos, and much more!  
+If you want to add useful links, add them to `documentation.md` file  
 If you want to add another example of code, create a new branch with the following naming format in lowercase and hyphens: `example-of-branch`.
