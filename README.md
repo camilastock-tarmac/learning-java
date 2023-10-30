@@ -1,7 +1,8 @@
 # Learning Java
 
 ## Description
-This project is based on an example available on this page: [Baeldung Spring Boot Starter](https://www.baeldung.com/spring-boot-start). You can use this repository to compare your solution or create your own.
+In the following repository, you will find material that can be useful for the initial steps in Java. Feel free to collaborate with any material you deem relevant for learning.
 
 ## Content
-In the `/demo` folder, you will find a Postman collection that allows you to test the endpoints listed in the `BookCollector` class.
+### baeldung-spring-boot-starter branch
+In `baeldung-spring-boot-starter` branch you will find a solution for example available on this page: [Baeldung Spring Boot Starter](https://www.baeldung.com/spring-boot-start). You can use this repository to compare your solution or create your own.
